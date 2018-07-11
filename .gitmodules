@@ -1,0 +1,3 @@
+[submodule "megagaurds/megagaurds-benchmarks-suite"]
+	path = megagaurds/megagaurds-benchmarks-suite
+	url = git@github.com:securesystemslab/megagaurds-benchmark-suite.git
